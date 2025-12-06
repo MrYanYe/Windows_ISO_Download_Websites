@@ -15,6 +15,8 @@ https://msdl.gravesoft.dev/#
 ---
 ### 下载ISO文件后按照以下微软官网的方法操作
 
+https://www.microsoft.com/en-gb/software-download/windows10
+https://www.microsoft.com/zh-cn/software-download/windows10
 使用 ISO 文件安装 Windows 10 的其他方法（单击可显示详细或简要信息）
 
 如果你下载了 Windows 10 的 ISO 文件，则该文件将在本地保存在你所选的位置。如果你的计算机上安装有你首选用来创建安装 DVD 的第三方 DVD 刻录程序，则可以转到该文件的保存位置，双击 ISO 文件来打开该程序，也可以右键单击 ISO 文件，选择打开方式，然后选择您的首选 DVD 刻录软件。
