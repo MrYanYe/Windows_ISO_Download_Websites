@@ -41,5 +41,5 @@ https://www.microsoft.com/zh-cn/software-download/windows10
 
 注意如果你想保留软件和文件，切记在点击setup.exe后有一步**一定要选择保留个人文件和应用**，虽然这是默认的。
 
-我还附上了一个永久禁止windows更新的方法，如果不想接收win11更新推送可以用。
+我还附上了一个永久禁止windows更新的方法，如果不想接收windows更新推送可以用。
 
