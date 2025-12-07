@@ -9,7 +9,7 @@ https://msdl.gravesoft.dev/#
 
 进去后点击下载Windows 10 22H2 Home China (19045.2006) ```ID 2378```。
 
-起因是我删了微软开发的一个软件Powertoys，然后发现fn+esc无法切换音量键和功能键了，于是就进DELL BIOS把fn+esc这个功能打开，然而重启电脑后发现设置和搜索框都一打开就闪退，打不开了，搜方法说用PowerShell修复，结果我PowerShell也打开闪退，然后我在“启用或关闭Windows功能”里把PowerSehll哪个框关闭，又打开，然后PowerShell终于能用了。但是设置和搜索框打不开的问题还是弄了半天没解决，只能选择重装系统（当然，不丢失原本文件，只是把系统重新装一遍或者更新到高版本）。
+起因是我删了微软开发的一个软件Powertoys，然后发现fn+esc无法切换音量键和功能键了，于是就进DELL BIOS把fn+esc这个功能打开，然而重启电脑后发现**设置和搜索框都一打开就闪退**，打不开了，搜方法说用PowerShell修复，结果我PowerShell也打开闪退，然后我在“启用或关闭Windows功能”里把PowerSehll那个框关闭，又打开，然后PowerShell终于能用了。但是设置和搜索框打不开的问题还是弄了半天没解决，只能选择重装系统（当然，不丢失原本文件，只是把系统重新装一遍或者更新到高版本）。
 
 我尝试用微软官方的 MediaCreationTool 来更新，但不知道为什么MediaCreationTool在下载界面一直是0%，试了很多方法也没解决（我电脑本来这几年在设置里的Windows Update里就一直更新不了，一直说我缺少系统组件，导致我win10一直是1909版的，不知道是不是因为这个原因），所以才找到了这个直接用ISO文件更新Win10 22H2的方法。
 
