@@ -3,7 +3,7 @@ Windows 8, 10, 11 ISO download websites( useful and pure ).
 
 I think AI translation is really strong these days, so if you need, go ahead and use any translation app or AI you like to translate this README to your mother language or English; my English won't be as good as AI's.
 
-**Read this in other language [English](README_en.md).**
+**Read this in other language: [English](README_en.md).**
 
 
 Win8，win10，win11 ISO文件下载网站。ISO下载，ISO，系统更新，windows更新，微软，Microsoft。如果你要用ISO文件直接双击升级windows，不用U盘，现在微软官网上win10只提供**多语言版**22H2的ISO文件，而中国大部分笔记本电脑预装的都是单语言版的windows10**家庭中文版**，这是**两个版本**。后者只能将中文作为显示语言，我查了一下这么分的原因好像是家庭中文版售价比多语音的国际版便宜，所以微软特地为大陆推出了这个版本。
