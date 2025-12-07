@@ -3,6 +3,8 @@ Windows 8, 10, 11 ISO download websites( useful and pure ).
 
 I think AI translation is really strong these days, so if you need, go ahead and use any translation app or AI you like to translate this README to your mother language or English; my English won't be as good as AI's.
 
+I also have an English version of the README translated by AI—feel free to check it out if you want.
+
 **Read this in other language: [English](README_en.md).**
 
 
