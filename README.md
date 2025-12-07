@@ -1,6 +1,8 @@
 # Windows_ISO_Download_Websites
 Windows 8, 10, 11 ISO download websites( useful and pure ). 
 
+AI translation is really strong these days, so if you need, go ahead and use any translation app or AI you like to translate this README; my English won't be as good as theirs.
+
 Win8，win10，win11 ISO文件下载网站。ISO下载，ISO，系统更新，windows更新，微软，Microsoft。如果你要用ISO文件直接双击升级windows，不用U盘，现在微软官网上win10只提供**多语言版**22H2的ISO文件，而中国大部分笔记本电脑预装的都是单语言版的windows10**家庭中文版**，这是**两个版本**。后者只能将中文作为显示语言，我查了一下这么分的原因好像是家庭中文版售价比多语音的国际版便宜，所以微软特地为大陆推出了这个版本。
 
 所以直接用多语言版ISO装载然后运行Setup中间会让你输产品密钥，如果不想重新激活，延用之前预装的家庭中文版，就用这个网站（截止2025/12/06还能用）
@@ -8,6 +10,10 @@ Win8，win10，win11 ISO文件下载网站。ISO下载，ISO，系统更新，wi
 https://msdl.gravesoft.dev/#
 
 进去后点击下载Windows 10 22H2 Home China (19045.2006) ```ID 2378```。
+
+当然，如果你需要其他版本的Windows ISO，这个网站里还有 win8.1, win10, win10 Home China, win11, win11pro, win11 Home China, win11 Pro Home China 等版本，这写这个主要是我需要win10 Home China的ISO，在这个网站找到了，但更多人的需求肯定不是这个。
+
+---
 
 起因是我删了微软开发的一个软件Powertoys，然后发现fn+esc无法切换音量键和功能键了，于是就进DELL BIOS把fn+esc这个功能打开，然而重启电脑后发现**设置和搜索框都一打开就闪退**，打不开了，搜方法说用PowerShell修复，结果我PowerShell也打开闪退，然后我在“启用或关闭Windows功能”里把PowerSehll那个框关闭，又打开，然后PowerShell终于能用了。但是设置和搜索框打不开的问题还是弄了半天没解决，只能选择重装系统（当然，不丢失原本文件，只是把系统重新装一遍或者更新到高版本）。
 
