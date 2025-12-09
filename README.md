@@ -18,6 +18,12 @@ https://msdl.gravesoft.dev/#
 
 当然，如果你需要其他版本的Windows ISO，这个网站里还有 win8.1, win10, win10 Home China, win11, win11pro, win11 Home China, win11 Pro Home China 等版本，这写这个主要是我需要win10 Home China的ISO，在这个网站找到了，但更多人的需求肯定不是这个。
 
+因为这个网站不太稳定，有时候点进去会显示```No download options available.``` 所以如果这个网站打不开了，可以移步下面这个仓库
+
+https://github.com/MrYanYe/Windows_10_22H2_Home_China_ISO_GCK_Chinese_Simplified_x64_ISO/tree/main?tab=readme-ov-file
+
+我把Windows10家庭中文版的ISO分卷压缩，上传到[上面这个仓库](https://github.com/MrYanYe/Windows_10_22H2_Home_China_ISO_GCK_Chinese_Simplified_x64_ISO/tree/main?tab=readme-ov-file)了，具体怎么下载和解压缩在仓库里的README有详细介绍，如果需要可以克隆仓库下载ISO文件。
+
 ---
 
 起因是我删了微软开发的一个软件Powertoys，然后发现fn+esc无法切换音量键和功能键了，于是就进DELL BIOS把fn+esc这个功能打开，然而重启电脑后发现**设置和搜索框都一打开就闪退**，打不开了，搜方法说用PowerShell修复，结果我PowerShell也打开闪退，然后我在“启用或关闭Windows功能”里把PowerSehll那个框关闭，又打开，然后PowerShell终于能用了。但是设置和搜索框打不开的问题还是弄了半天没解决，只能选择重装系统（当然，不丢失原本文件，只是把系统重新装一遍或者更新到高版本）。
